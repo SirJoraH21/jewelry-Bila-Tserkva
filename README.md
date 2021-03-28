@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # jewelry-Bila-Tserkva
 I created this repository specifically for the development of a site for a small jewelry factory in Bila Tserkva.
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
