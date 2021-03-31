@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Section />
+      <Section bg_src={'/images/section1.jpg'}/>
       {/* <img src="/images/1.jpg" alt="Ring"/> */}
     </div>
   );
