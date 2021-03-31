@@ -1,7 +1,7 @@
 import React from "react";
 import "./sections.css";
 
-const Section = (props) => {
+const TopSection = (props) => {
   const style = {
     background: `url(${props.bg_src}) no-repeat`,
     backgroundSize: "cover",
@@ -25,4 +25,4 @@ const Section = (props) => {
   );
 };
 
-export default Section;
+export default TopSection;

@@ -1,13 +1,14 @@
 import './App.css';
 import Header from './components/Header/Header';
-import Section from './components/sections/Section';
+import TopSection from './components/sections/TopSection/TopSection';
+import WeaklyProducts from './components/sections/WeaklyProducts/WeaklyProducts';
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Section bg_src={'/images/section1.jpg'}/>
-      {/* <img src="/images/1.jpg" alt="Ring"/> */}
+      <TopSection bg_src={'/images/section1.jpg'}/>
+      <WeaklyProducts />
     </div>
   );
 }

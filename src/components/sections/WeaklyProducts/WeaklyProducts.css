@@ -1,0 +1,15 @@
+h2 {
+    color: #99745c;
+    font-family: "Raleway", Sans-serif;
+    font-size: 33px;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 37px;
+    letter-spacing: 6.6px;
+}
+.cards {
+    max-width: 1190px;
+    height: 500px;
+    margin: 0 auto;
+}
